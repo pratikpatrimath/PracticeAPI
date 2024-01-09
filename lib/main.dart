@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:post_api/add_lead.dart';
-import 'package:post_api/lead_page.dart';
 import 'package:post_api/onborading.dart';
 
 void main() {
